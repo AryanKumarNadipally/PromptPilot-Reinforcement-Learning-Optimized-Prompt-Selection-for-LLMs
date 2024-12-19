@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "gold_answer": "Paris"
+  },
+  {
+    "question": "Explain quantum entanglement in simple terms.",
+    "gold_answer": "Quantum entanglement is a phenomenon where two particles remain connected so that the state of one affects the state of the other, no matter how far apart they are."
+  },
+  {
+    "question": "What is the normal body temperature in Celsius?",
+    "gold_answer": "About 37°C"
+  },
+  {
+    "question": "Who is the current President of the United States?",
+    "gold_answer": "Joe Biden"
+  },
+  {
+    "question": "What color is the sky?",
+    "gold_answer": "Blue"
+  },
+  {
+    "question": "Is Pluto a planet?",
+    "gold_answer": "No"
+  },
+  {
+    "question": "What is the abbreviation of the United States of America?",
+    "gold_answer": "USA"
+  },
+  {
+    "question": "Who was the first person to step on the Moon?",
+    "gold_answer": "Neil Armstrong"
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "gold_answer": "299,792,458 m/s"
+  },
+  {
+    "question": "Explain the concept of supply and demand in economics.",
+    "gold_answer": "Supply and demand is an economic model of price determination in a market. The price of a good is determined by its availability (supply) and buyers’ desire (demand)."
+  },
+  {
+    "question": "In which novel does the character 'Jay Gatsby' appear?",
+    "gold_answer": "The Great Gatsby"
+  },
+  {
+    "question": "Explain photosynthesis.",
+    "gold_answer": "Photosynthesis is the process by which green plants use sunlight to convert water and carbon dioxide into oxygen and sugars."
+  }
+]
